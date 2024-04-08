@@ -2,8 +2,6 @@ package interfaces;
 
 public interface Interface_Queue {
 	
-	public String textAusgeben();
-	
 	public void enter(int element);
 	
 	public void leave();

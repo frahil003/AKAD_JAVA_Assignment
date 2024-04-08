@@ -42,10 +42,5 @@ public class MyQueue implements Interface_Queue {
 	
 	public void printQueue() {
 		
-	}
-	
-	@Override
-	public String textAusgeben() {
-		return "Ein Text wird ausgegeben!";
-	}		
+	}	
 }
